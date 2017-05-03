@@ -1,1 +1,4 @@
-# store-rest-api
+# Store RET API
+
+
+Using Flask =)
